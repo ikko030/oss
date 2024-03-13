@@ -1,9 +1,8 @@
 # oss
 oss개발 
 
-아래의 단어는 markdown
-## heading 2
-### heading 3
+## OSS leccture
+### 
 
 @ikko030
 
