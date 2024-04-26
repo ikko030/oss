@@ -1,0 +1,23 @@
+[Github 프로젝트 생성하기]
+
+1.Github의 목적: contribution을 높인다! (why???)
+
+2.사전 지식
+분산 버전 관리 시스템 : git, cvs
+공유를 위한 중앙 저장소 : Github, GitLab
+
+3.깃허브 사용하기
+1)repository 생성
+2)라이선스와 README.md파일 확인
+
+4.apdlsrnwh
+1.working(작업을 진행하는 공간)
+->git add.
+2.=>stage(임시로 작업을 저장하는 공간)
+->git commit -m "README"
+3.=>Repository(실제로 저장하는 공간)
+->git push -u orgin main
+4.=>hub(공유 공간)
+
+
+
